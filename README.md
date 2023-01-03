@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Hezermozo
-- 👀 I’m interested in tech, generally, coming from hardware and now
-- 🌱 I’m currently learning software
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi !
+My name is Hermann-Jude.
+I'm a learning developer coming from the hardware world!
+
+Currently, I'm working on learning PHP, Java, and JavaScript.
 
 <!---
 Hezermozo/Hezermozo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
