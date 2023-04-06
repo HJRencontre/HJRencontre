@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Hermann-Jude.<br>I am a future fullstack developer.
+Hello! My name is Hermann-Jude.<br>I am a future fullstack developer.<br> Currently studying at CFA Insta.<br> I'm looking for a new apprenticeship ! 
 
 
 ## 🌐 Socials:
